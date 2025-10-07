@@ -1,0 +1,9 @@
+img {
+    width: 200px;
+}
+body {
+    text-align: center;
+    font-family: 'Times New Roman';
+    background: rgb(160, 62, 62);
+    color: white;
+}
